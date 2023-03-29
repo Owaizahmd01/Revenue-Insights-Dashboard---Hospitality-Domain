@@ -29,6 +29,8 @@ After completing this challenging task, I must say that I have gained a very goo
 
 ➡️Dynamic Pricing: Implementing a dynamic pricing strategy can help hotels to optimize their revenue by adjusting prices based on demand and other factors.
 
+# Here is the link to the dashboard:
+🔎 https://lnkd.in/g9XwAAyv
 
 ## Overview:
 🔷Project: Provide Revenue Insights to Management
